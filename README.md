@@ -1,5 +1,9 @@
+This is my attempt at the comma.ai speed challenge.  You can find the data here: https://github.com/commaai/speedchallenge
+The readme from the challenge is below.
+
+
 Welcome to the comma.ai Programming Challenge!
-======
+==============================================
 
 Your goal is to predict the speed of a car from a video.
 
